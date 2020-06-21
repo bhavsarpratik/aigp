@@ -1,0 +1,8 @@
+torch
+torchvision
+gym
+box2d-py
+matplotlib
+jupyterlab
+scikit-learn
+pandas
